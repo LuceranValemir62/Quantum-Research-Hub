@@ -24,5 +24,3 @@ Be respectful, constructive, and evidence-based in all discussions.
   - Complexity analysis
   - References to original papers
   - Usage examples
-
-### 4. Commit Message Convention
