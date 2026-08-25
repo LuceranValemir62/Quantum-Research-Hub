@@ -58,5 +58,3 @@ technologies. It bridges the gap between academic theory and engineering practic
 &gt; **Legend:** 🟢 Active (code available) | 🟡 In Progress (documentation + partial code) | 🔴 Planned (roadmap only)
 
 ---
-
-## 📁 Repository Structure
